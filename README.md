@@ -111,7 +111,7 @@ A Windows Forms application that helps developers choose the appropriate numeric
 
 ---
 
-### StarWars_API
+### StarWars-API
 
 A console application that fetches and analyzes planet data from the Star Wars API (SWAPI).
 
