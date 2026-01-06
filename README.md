@@ -62,7 +62,7 @@ var sequence = Fibonacci.Generate(10);
 
 ---
 
-### Linked_List
+### Linked-List
 
 A generic singly linked list implementation that demonstrates fundamental concepts of linked data structures.
 
